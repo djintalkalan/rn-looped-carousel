@@ -1,0 +1,43 @@
+{
+  "name": "rn-looped-carousel",
+  "version": "0.1.0",
+  "description": "Looped carousel for React Native",
+  "main": "index.tsx",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Print: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djintalkalan/rn-looped-carousel"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "switch",
+    "carousel",
+    "looped",
+    "looped carousel",
+    "component"
+  ],
+  "author": "Deepak Jaglan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djintalkalan/rn-looped-carousel/issues"
+  },
+  "homepage": "https://github.com/djintalkalan/rn-looped-carousel#readme",
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-native": "^0.54.0"
+  },
+  "dependencies": {
+    "lodash.isequal": "^4.5.0"
+  },
+  "devDependencies": {}
+}
